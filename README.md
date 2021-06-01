@@ -6,7 +6,7 @@
 
 * 数据集：https://github.com/ocatak/malware_api_class
 
-* 分类器：https://github.com/ocatak/malware_api_class
+* 分类器：https://github.com/ocatak/lstm_malware_detection
 
 ## 环境配置
 
